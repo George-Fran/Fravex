@@ -1,0 +1,6 @@
+{
+  "name": "WaBot Studio",
+  "description": "Crea, configura, prueba y conecta tu propio bot de WhatsApp con comandos como /sticker, /ttp, /qr, utilidades en vivo y comandos personalizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
